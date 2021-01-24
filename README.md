@@ -7,14 +7,13 @@ I'm a student of IT boot-camp and after I completed my education, I want to be a
 
 Here are some ideas to get you started:
 -->
-- :football: AWS CloudFormation
-
-- :tennis: Python
- 
-- 🔭 SQL
-- 🌱 Docker
-- 👯 Jenkins
-- 😄 Ansible
+:football: I'm interested in:
+- ⚡ AWS CloudFormation
+- ⚡ Python
+- ⚡ SQL
+- ⚡ Docker
+- ⚡ Jenkins
+- ⚡Ansible
 - ⚡ AWS Lambda
 - ⚡ AWS Elastic Beanstalk
 - ⚡ AWS Command Line Interface (CLI)
