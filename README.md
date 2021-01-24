@@ -11,14 +11,17 @@ Here are some ideas to get you started:
 - ⚡ AWS CloudFormation
 - ⚡ Python
 - ⚡ SQL
-- ⚡ Docker
+- ⚡ Docker & Docker Swarm
 - ⚡ Jenkins
-- ⚡Ansible
+- ⚡ Ansible
 - ⚡ AWS Lambda
 - ⚡ AWS Elastic Beanstalk
 - ⚡ AWS Command Line Interface (CLI)
 - ⚡ Amazon S3
 - ⚡ Amazon Relational Database Service (RDS)
+- ⚡ Auto Scaling
+- ⚡ Grafana
+- ⚡ Kubernettes
 
 :swimmer: I’m currently working on AWS exams for clouds.
 
