@@ -22,5 +22,8 @@ Here are some ideas to get you started:
 - :swimmer: I’m currently working on AWS exams for clouds.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about any thing about my projects.
-- 📫 How to reach me: https://www.linkedin.com/in/steve-goekce-aydin-13a3151b2/
+- 📫 How to reach me:   https://www.linkedin.com/in/steve-goekce-aydin-13a3151b2/ 
+
+                        mstfgkcaydin@gmail.com
+
 
