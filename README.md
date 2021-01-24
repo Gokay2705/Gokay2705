@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a student of IT boot-camp and after I completed my education, I want to be a cloud engineer and AWS Solution Architect. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
+I'm a student of IT boot-camp and after I completed my education, I want to be a cloud and AWS Solution Architect engineer. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
 
 <!--
 **Gokay2705/Gokay2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
