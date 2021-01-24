@@ -8,7 +8,9 @@ I'm a student of IT boot-camp and after I completed my education, I want to be a
 Here are some ideas to get you started:
 -->
 - :football: AWS CloudFormation
-- :tennis: Python 
+
+- :tennis: Python
+ 
 - 🔭 SQL
 - 🌱 Docker
 - 👯 Jenkins
@@ -19,11 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Amazon S3
 - ⚡ Amazon Relational Database Service (RDS)
 
-- :swimmer: I’m currently working on AWS exams for clouds.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about any thing about my projects.
-- 📫 How to reach me:   https://www.linkedin.com/in/steve-goekce-aydin-13a3151b2/ 
+:swimmer: I’m currently working on AWS exams for clouds.
 
-                        mstfgkcaydin@gmail.com
+🤔 I’m looking for help with ...
+
+💬 Ask me about any thing about my projects.
+
+📫 How to reach me:   https://www.linkedin.com/in/steve-goekce-aydin-13a3151b2/ 
+mstfgkcaydin@gmail.com
 
 
