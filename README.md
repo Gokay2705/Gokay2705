@@ -10,31 +10,21 @@ Here are some ideas to get you started:
 - :football: AWS CloudFormation
 - :tennis: Python 
 - 🔭 SQL
-Docker
-Jenkins
-Ansible
-AWS Lambda
-AWS Elastic Beanstalk
-AWS Command Line Interface (CLI)
-Amazon S3
-Amazon Relational Database Service (RDS)
-AWS Security
-Maven
-Terraform
-Prometheus.io
-Grafana
-Selenium
-Jira
-HTML5
-GitHub
-Python
+- 🌱 Docker
+- 👯 Jenkins
+- 😄 Ansible
+- ⚡ AWS Lambda
+- ⚡ AWS Elastic Beanstalk
+- ⚡ AWS Command Line Interface (CLI)
+- ⚡ Amazon S3
+- ⚡ Amazon Relational Database Service (RDS)
 
 -  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+ I’m currently learning ...
+ I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Pronouns: ...
+Fun fact: ...
 
