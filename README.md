@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I interested in Cloud Architect & DEVOPS Tools. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
+I interested in Cloud Architect & DevOps Tools. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
 
 <!--
 **Gokay2705/Gokay2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
