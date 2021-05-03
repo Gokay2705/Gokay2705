@@ -1,6 +1,4 @@
 
-
-
 <!--
 Public commits
 [![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
@@ -24,7 +22,9 @@ Public commits
 </a>
 <hr>
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:.
+<br>
 I interested in Cloud Architect & DevOps Tools. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
 
 <!--
