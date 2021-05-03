@@ -5,9 +5,9 @@ Public commits
 -->
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 
-  <a href="https://github.com/Gokay2705/awesome-README-templates/stargazers"><img src="https://img.shields.io/github/stars/Gokay2705/awesome-README-templates" alt="Stars Badge"/></a>
+
 
 <hr>
 
