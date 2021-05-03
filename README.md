@@ -43,7 +43,7 @@ Public commits
 -->
 ![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gokay2705&repo=github-readme-stats)](https://github.com/Gokay2705/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
 
 
 ### Hi there 👋
