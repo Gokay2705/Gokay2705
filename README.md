@@ -17,15 +17,12 @@ Public commits
 
 
 
-
-
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 
 ## My GitHub Stats 📊
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true&show_icons=true&theme=radical" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
