@@ -1,23 +1,15 @@
 
 
-<p align="center">Love the project? Please consider <a href="https://www.paypal.me/mstfgkcaydin">DONATING</a> to help it improve!
-</p>
-
+<p align="center">Love the project? Please consider <a href="https://www.paypal.me/mstfgkcaydin">DONATING</a> to help it improve!</p>
+<hr>
 <!--
 Public commits
 [![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
 -->
 
-![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Gokay2705/github-readme-stats)
-
-
-
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
+<hr>
 
 ## My GitHub Stats 📊
 
