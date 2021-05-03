@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 💬 Ask me about any thing about my projects.
 
-📫 How to reach me:   https://www.linkedin.com/in/m-goekce-aydin-13a3151b2/ 
+📫 How to reach me:   [<img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" href= "https://www.linkedin.com/in/"/> https://www.linkedin.com/in/m-goekce-aydin-13a3151b2/ 
 mstfgkcaydin@gmail.com
 
 <hr>
