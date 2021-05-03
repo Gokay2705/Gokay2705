@@ -27,7 +27,9 @@ Public commits
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
 </a>
-
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokay2705" />
+</a>
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:.
