@@ -38,7 +38,8 @@
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/mstfgkcaydin">donating</a> to help it improve!
  
 [![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
-  
+
+![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true)
 ### Hi there 👋
 
 I interested in Cloud Architect & DevOps Tools. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
