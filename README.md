@@ -20,11 +20,11 @@ Public commits
 
 
 
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:
+Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:.
 I interested in Cloud Architect & DevOps Tools. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my work at my repo.
 
 <!--
