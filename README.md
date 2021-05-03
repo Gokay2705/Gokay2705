@@ -45,7 +45,7 @@ Public commits
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/Gokay2705/github-readme-stats)
 
 
 ### Hi there 👋
