@@ -24,7 +24,8 @@ Public commits
   <img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 </a>
 <hr>
-### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+### <b> Hello, folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:.
 <br>
