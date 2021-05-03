@@ -27,6 +27,7 @@ Public commits
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
 </a>
+<hr>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 </a>
