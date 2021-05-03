@@ -22,6 +22,15 @@ Public commits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 
+## My GitHub Stats 📊
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
+</a>
+
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:.
