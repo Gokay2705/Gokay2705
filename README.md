@@ -37,8 +37,10 @@
 </p>
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/mstfgkcaydin">donating</a> to help it improve!
  
+<!--
+Public commits
 [![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
-
+-->
 ![M.Goekcé's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true)
 ### Hi there 👋
 
