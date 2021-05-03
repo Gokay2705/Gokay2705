@@ -28,7 +28,7 @@ Public commits
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=Gokay2705" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
 </a>
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
