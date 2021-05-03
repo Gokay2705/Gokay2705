@@ -7,7 +7,9 @@ Public commits
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 
-
+<a href="https://codecov.io/gh/Gokay2705/github-readme-stats">
+  <img src="https://codecov.io/gh/Gokay2705/github-readme-stats/branch/master/graph/badge.svg" />
+ </a>
 
 <hr>
 
