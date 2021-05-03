@@ -10,19 +10,6 @@ Public commits
 
 <hr>
 
-## My GitHub Stats 📊
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
-</a>
-<br>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
-</a>
-<hr>
 
 ### <b> Hello, folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
@@ -61,6 +48,22 @@ Here are some ideas to get you started:
 mstfgkcaydin@gmail.com
 
 <hr>
+
+
+## My GitHub Stats 📊
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Gokay2705&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokay2705" />
+</a>
+<br>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="centre" src="https://github-readme-stats.vercel.app/api/wakatime?username=willianrod" />
+</a>
+<hr>
+
 
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/mstfgkcaydin">DONATING</a> to help it improve!</p>
 <hr>
