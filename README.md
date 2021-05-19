@@ -7,7 +7,7 @@ Public commits
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 
-<!-- weather widget start --><a target="_blank" href="https://bookeder.com/weather/bern-18815"><img src="https://w.bookcdn.com/weather/picture/3_18815_1_21_137AE9_160_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=124&domid=765&anc_id=85579"  alt="booked.net"/></a><!-- weather widget end -->
+<!-- weather widget start --><a target="_blank" href="https://bookeder.com/weather/bern-18815"><img src="https://w.bookcdn.com/weather/picture/6_18815_1_21_137AE9_250_ffffff_333333_08488D_1_ffffff_333333_0_6.png?scode=124&domid=765&anc_id=36257"  alt="booked.net"/></a><!-- weather widget end -->
 
 <hr>
 
