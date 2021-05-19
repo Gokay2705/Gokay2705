@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 💬 Ask me about any thing about my projects.
 
 📫 How to reach me: https://www.linkedin.com/in/m-goekce-aydin-13a3151b2/ 
-mstfgkcaydin@gmail.com
+mstfgkcaydin@gmail.com https://mustafagokceaydin.com/
 
 <hr>
 
