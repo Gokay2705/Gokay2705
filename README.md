@@ -74,4 +74,3 @@ https://mustafagokceaydin.com/
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/mstfgkcaydin">DONATING</a> to help it improve!</p>
 <hr>
 
-<meta http-equiv="refresh" content="5"/>
