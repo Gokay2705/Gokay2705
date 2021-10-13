@@ -1,3 +1,5 @@
+- name: Lighthouse Check
+  uses: foo-software/lighthouse-check-action@v4.0.0
 
 
 <!--
