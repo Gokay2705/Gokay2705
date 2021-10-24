@@ -53,7 +53,6 @@ https://www.linkedin.com/in/m-goekce-aydin-13a3151b2/
 
 mstfgkcaydin@gmail.com 
 
-https://mustafagokceaydin.com/
 
 <hr>
 
