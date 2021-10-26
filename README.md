@@ -51,6 +51,8 @@ Here are some ideas to get you started:
 
 https://www.linkedin.com/in/m-goekce-aydin-13a3151b2/
 
+https://gokay2705.github.io/mstfgkcaydin.github.io/
+
 mstfgkcaydin@gmail.com 
 
 
