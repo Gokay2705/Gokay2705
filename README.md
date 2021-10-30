@@ -57,7 +57,7 @@ mstfgkcaydin@gmail.com
 
 <hr>
 
-Projects
+<b>Projects</b>
 
 <a href="https://gokay2705.github.io/mstfgkcaydin.github.io/">
 Project-001 : Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation
