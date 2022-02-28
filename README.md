@@ -16,7 +16,7 @@ Public commits
 
 ### <b> Hello, folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-   Hi! My name is M.Goekcé. Thank You for taking the time to view my GitHub Profile :smile:.
+   Hi! My name is M.Goekché. Thank You for taking the time to view my GitHub Profile :smile:.
 <br>
 I'm interesting in Cloud Architect and DevOps Tools. I have an experience with Kubernetes, Docker Swarm, Jenkins and Amazon Web Services. I like to follow and get connect with people to learn something interesting that helps to develop my career. You can see my works at my repo.
 
