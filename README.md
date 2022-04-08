@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 - ⚡ Amazon S3
 - ⚡ Amazon Relational Database Service (RDS)
 - ⚡ Auto Scaling
-- ⚡ Grafana
 - ⚡ Kubernettes
 
 :swimmer: I’m currently working on AWS exams for clouds.
