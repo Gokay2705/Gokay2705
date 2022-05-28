@@ -13,8 +13,6 @@ Public commits
 
 
 ### <b> Hello, folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-    <!-- Bootstrap -->
-    <link href="css/bootstrap-4.3.1.css" rel="stylesheet">
   </head>
   <body>
     <div class="container">
