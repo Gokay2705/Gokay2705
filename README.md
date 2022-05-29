@@ -13,19 +13,8 @@ Public commits
 
 
 ### <b> Hello, folks!</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  </head>
-  <body>
-    <div class="container">
-      <hr>
-      <div class="row">
-        <div class="col-6">
           <h1>M. Goekché AïDIN</h1>
-        </div>
-      </div>
-      <hr>
-      <div class="row">     
-            <div class="media-body">
-              <h5 class="mt-0"><em>Solution Architect &amp; DevOps Enginer</em></h5>
+              <h5 class="mt-0"><em>J. Solution Architect &amp; DevOps Enginer</em></h5>
               <br>Hi everyone! <br><br><p class="text-justify">My name is M. Goekcé AYDIN and I’m a Junior AWS Cloud Solutions Architect & DevOps Engineer. I have learned to be practical in AWS Resources and DevOps Tools. I am an energetic, self-learner and geek who loves my new job. Cloud and DevOps are what I enjoy. You can see my work and projects that i have done via my <a href="https://github.com/Gokay2705" title="GitHub" target="https://github.com/Gokay2705">Github</a>.</p></div>
           </div>
         </div>
