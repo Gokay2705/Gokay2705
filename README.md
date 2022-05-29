@@ -7,8 +7,8 @@ Public commits
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 <hr>
-# <h1>J. Solution Architect &amp; DevOps Enginer</h1>
-# <p class="text-justify">My name is M. Goekcé AYDIN and I’m a Junior AWS Cloud Solutions Architect & DevOps Engineer. I have learned to be practical in AWS Resources and DevOps Tools. I am an energetic, self-learner and geek who loves my new job. Cloud and DevOps are what I enjoy. You can see my work and projects that i have done via my <a href="https://github.com/Gokay2705" title="GitHub" target="https://github.com/Gokay2705">Github</a>.</p>
+<h1>J. Solution Architect &amp; DevOps Enginer</h1>
+<p class="text-justify">My name is M. Goekcé AYDIN and I’m a Junior AWS Cloud Solutions Architect & DevOps Engineer. I have learned to be practical in AWS Resources and DevOps Tools. I am an energetic, self-learner and geek who loves my new job. Cloud and DevOps are what I enjoy. You can see my work and projects that i have done via my <a href="https://github.com/Gokay2705" title="GitHub" target="https://github.com/Gokay2705">Github</a>.</p>
 You can see my works at my repo.
 
 <!--
