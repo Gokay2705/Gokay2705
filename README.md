@@ -1,4 +1,3 @@
-
 <!--
 Public commits
 [![M.Goekché's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gokay2705)](https://github.com/Gokay2705/github-readme-stats)
@@ -7,9 +6,18 @@ Public commits
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 <hr>
-<h1>J. Solution Architect &amp; DevOps Enginer</h1>
-<p class="text-justify">My name is M. Goekcé AYDIN and I’m a Junior AWS Cloud Solutions Architect & DevOps Engineer. I have learned to be practical in AWS Resources and DevOps Tools. I am an energetic, self-learner and geek who loves my new job. Cloud and DevOps are what I enjoy. You can see my work and projects that i have done via my <a href="https://github.com/Gokay2705" title="GitHub" target="https://github.com/Gokay2705">Github</a>.</p>
-You can see my works at my repo.
+
+<h1>Junior Cloud Solutions Architect &amp; DevOps Engineer</h1>
+<p class="text-justify">Hello! I’m M. Goekcé AYDIN, a Junior AWS Cloud Solutions Architect &amp; DevOps Engineer. I enjoy building practical solutions with AWS services and DevOps tools. I’m an energetic, hands-on learner who values continuous improvement. You can explore my projects on my <a href="https://github.com/Gokay2705" title="GitHub" target="https://github.com/Gokay2705">GitHub</a> profile.</p>
+
+<hr>
+
+<h2>About</h2>
+<ul>
+  <li>Focused on AWS infrastructure, automation, and CI/CD.</li>
+  <li>Hands-on experience with CloudFormation, EC2, S3, and RDS.</li>
+  <li>Interested in building scalable, reliable systems.</li>
+</ul>
 
 <!--
 **Gokay2705/Gokay2705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,15 +37,15 @@ Here are some ideas to get you started:
 - ⚡ Amazon S3
 - ⚡ Amazon Relational Database Service (RDS)
 - ⚡ Auto Scaling
-- ⚡ Kubernettes
+- ⚡ Kubernetes
 
-:swimmer: I’m currently working on AWS exams for clouds.
+:swimmer: I’m currently working on AWS certifications.
 
 🤔 I’m looking for help with ...
 
-💬 Ask me about any thing about my projects.
+💬 Ask me about anything related to my projects.
 
-📫 How to reach me: 
+📫 How to reach me:
 
 https://www.linkedin.com/in/m-goekce-aydin-13a3151b2/
 
@@ -47,22 +55,15 @@ mstfgkcaydin@gmail.com
 
 <hr>
 
-<b>Projects :</b>
-
-<a href="https://gokay2705.github.io/mstfgkcaydin.github.io/">
-
-   Project-001 : Roman Numerals Converter Application (Python Flask) deployed on AWS EC2 with Cloudformation
-
-   Project-002 :Milliseconds Converter Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling Group using AWS Cloudformation
-
-   Project-003 :Phonebook Application (Python Flask) deployed on AWS Application Load Balancer with Auto Scaling and Relational Database Service using AWS Cloudformation
-
-   Project-004 :Kittens Carousel Static Website deployed on AWS EC2 using Cloudformation
-
-   Project-005 :PetClinic Sample Application
-
-   
-</a>
+<h2>Projects</h2>
+<ul>
+  <li><strong>Project-001:</strong> Roman Numerals Converter (Python Flask) deployed on AWS EC2 with CloudFormation.</li>
+  <li><strong>Project-002:</strong> Milliseconds Converter (Python Flask) deployed on an ALB with Auto Scaling Group using CloudFormation.</li>
+  <li><strong>Project-003:</strong> Phonebook App (Python Flask) deployed on an ALB with Auto Scaling and RDS using CloudFormation.</li>
+  <li><strong>Project-004:</strong> Kittens Carousel static site deployed on AWS EC2 with CloudFormation.</li>
+  <li><strong>Project-005:</strong> PetClinic sample application.</li>
+</ul>
+<p>More details at <a href="https://gokay2705.github.io/mstfgkcaydin.github.io/">my portfolio page</a>.</p>
 <hr>
 
 ## My GitHub Stats 📊
