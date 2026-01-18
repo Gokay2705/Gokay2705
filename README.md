@@ -4,7 +4,6 @@ Public commits
 -->
 
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=Gokay2705.Gokay2705)
 <hr>
 
 <h1>Junior Cloud Solutions Architect &amp; DevOps Engineer</h1>
